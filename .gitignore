@@ -1,0 +1,15 @@
+# Environments
+.venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+ls
+# Datasets (never commit raw data)
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# VS Code settings
+.vscode/
